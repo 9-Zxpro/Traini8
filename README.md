@@ -6,7 +6,7 @@ This project is an MVP for a registry of Government-funded Training Centers. It 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Dependencies (in pom.xml)](#Dependencies)
+- [Dependencies](#Dependencies)
 - [Running the Application](#running-the-application)
   
 
