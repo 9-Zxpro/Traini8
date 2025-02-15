@@ -31,7 +31,7 @@ It uses annotation-based validation to ensure the input data is valid. In case o
 - **Global Exception Handling**: Consistent error responses using @RestControllerAdvice.
 - **Clean Architecture**: Organized packages for controllers, services, repositories, entities, and DTOs.
 
-## Dependencies (in pom.xml)
+## Dependencies
 
 - Spring Web
 - Spring Data JPA
